@@ -12,7 +12,7 @@ Simulation of library: students come and take books.
 ## Digital signal
 
 Simple signal processing. Friend functions and methods overriding.
-# Flights
+## Flights
 
 Airport simulation. Created a few LINQ queries.
 
