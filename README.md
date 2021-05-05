@@ -20,6 +20,10 @@ Airport simulation. Created a few LINQ queries.
 
 Graph implementation. DFS and Strongly connected component included.
 
+## Medicine
+
+Iterator, Decorator and Visitor patterns are implemented.
+
 ## Movie
 
 Simple program about movies. Can be useful for some websites about cinematography.
